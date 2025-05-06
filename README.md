@@ -67,8 +67,8 @@ SwipeCareerでは、就活初期のハードルを限りなく下げ、「選ぶ
   <img src="./img/landing_preview2.jpeg" width="30%">
   <img src="./img/landing_preview3.jpeg" width="30%">
 </p>
-<br>
 - Figmaプロトタイプ
+<br>
   ※ 本プロジェクトのUIはプロトタイプ段階のラフスケッチです。
 　現時点では「就活初期ユーザーの行動動機づけ」という課題に対して、
 　より本質的な体験設計・仮説検証に注力しており、UIは仮デザインにとどめています。
