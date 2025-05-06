@@ -49,7 +49,7 @@ SwipeCareerでは、就活初期のハードルを限りなく下げ、「選ぶ
 
 
 ### 資料・デモ
-- LPスクリーンショット：
+- LPスクリーンショット(モバイルUI)：
 
   <p align="center">
   <img src="./img/landing_preview1.jpeg"  width="30%">
@@ -57,7 +57,6 @@ SwipeCareerでは、就活初期のハードルを限りなく下げ、「選ぶ
   <img src="./img/landing_preview3.jpeg" width="30%">
 </p>
 - Figmaプロトタイプ（準備中）
-- [仮LP公開ページ（任意でGitHub Pagesなどに公開可能）](#)
 
 ---
 
