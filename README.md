@@ -73,6 +73,15 @@ SwipeCareerでは、就活初期のハードルを限りなく下げ、「選ぶ
 　現時点では「就活初期ユーザーの行動動機づけ」という課題に対して、
 　より本質的な体験設計・仮説検証に注力しており、UIは仮デザインにとどめています。
 
+<p align="center">
+  <img src="./img/home_ui.png" width="200"/>
+  <img src="./img/management_ui.png" width="200"/>
+</p>
+<p align="center">
+  <img src="./img/recommend_ui.png" width="200"/>
+  <img src="./img/yourself.png" width="200"/>
+</p>
+
 
 
 ---
