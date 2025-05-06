@@ -49,7 +49,7 @@ SwipeCareerでは、就活初期のハードルを限りなく下げ、「選ぶ
 
 
 ### 資料・デモ
-- LPスクリーンショット：`/img/`フォルダ内に格納（※後で追加）
+- LPスクリーンショット：(./img/landing_preview1.jpeg)(./img/landing_preview2.jpeg)(./img/landing_preview3.jpeg)
 - Figmaプロトタイプ（準備中）
 - [仮LP公開ページ（任意でGitHub Pagesなどに公開可能）](#)
 
