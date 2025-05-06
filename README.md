@@ -1,5 +1,5 @@
 
-# Takahashi's Product Design Portfolio for SmartHR
+# Takahashi　Kento's Product Design Portfolio for SmartHR
 
 ## はじめに
 本ポートフォリオでは、現在プロトタイプレベルで開発中の就活支援サービス「SwipeCareer」について紹介します。  
@@ -103,6 +103,6 @@ SwipeCareerでは、就活初期のハードルを限りなく下げ、「選ぶ
 ---
 
 ## 📮 Contact
-- 氏名：高橋
-- メール：yourmail@example.com
-- GitHub：[@yourgithub](https://github.com/yourgithub)
+- 氏名：高橋 賢斗
+- メール：kento.tk19@outlook.jp
+- GitHub：[@yTakahashi241](https://github.com/Takahashi241)
