@@ -105,4 +105,4 @@ SwipeCareerでは、就活初期のハードルを限りなく下げ、「選ぶ
 ## 📮 Contact
 - 氏名：高橋 賢斗
 - メール：kento.tk19@outlook.jp
-- GitHub：[@yTakahashi241](https://github.com/Takahashi241)
+- GitHub：[@Takahashi241](https://github.com/Takahashi241)
