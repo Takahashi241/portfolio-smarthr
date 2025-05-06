@@ -52,9 +52,9 @@ SwipeCareerでは、就活初期のハードルを限りなく下げ、「選ぶ
 - LPスクリーンショット：
 
   <p align="center">
-  <img src="./img/landing_preview1.jpeg" style="margin: 0 10px" width="30%">
-  <img src="./img/landing_preview2.jpeg" style="margin: 0 10px" width="30%">
-  <img src="./img/landing_preview3.jpeg" style="margin: 0 10px" width="30%">
+  <img src="./img/landing_preview1.jpeg" style="margin: 0 10" width="30%">
+  <img src="./img/landing_preview2.jpeg" style="margin: 0 10" width="30%">
+  <img src="./img/landing_preview3.jpeg" style="margin: 0 10" width="30%">
 </p>
 - Figmaプロトタイプ（準備中）
 - [仮LP公開ページ（任意でGitHub Pagesなどに公開可能）](#)
