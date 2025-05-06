@@ -76,8 +76,6 @@ SwipeCareerでは、就活初期のハードルを限りなく下げ、「選ぶ
 <p align="center">
   <img src="./img/home_ui.png" width="200"/>
   <img src="./img/management_ui.png" width="200"/>
-</p>
-<p align="center">
   <img src="./img/recommend_ui.png" width="200"/>
   <img src="./img/yourself.png" width="200"/>
 </p>
