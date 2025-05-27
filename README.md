@@ -1,5 +1,5 @@
 
-# Takahashi　Kento's Product Design Portfolio for SmartHR
+# Takahashi　Kento's Product Design Portfolio 
 
 ## はじめに
 本ポートフォリオでは、現在プロトタイプレベルで開発中の就活支援サービス「SwipeCareer」について紹介します。  
